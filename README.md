@@ -1,2 +1,2 @@
-# RS-_School_stage_0
+# RS-School-stage-0
 First zero level lessons
